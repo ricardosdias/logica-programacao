@@ -1,3 +1,10 @@
+'''
+Este programa lê o arquivo XML chamado atendimentos_hospital.xml
+E gera um arquivo XML chamado atendimentos_hospital_atualizado.xml com as seguintes modificações:
+1. Formata o CRM do médico, para que tenha 10 caracteres, completando com zeros a esquerda.
+2. Atualiza o preço de todos os medicamentos em 15%.
+'''
+
 import xml.etree.ElementTree as ET
 
 # Função para formatar CRM do médico

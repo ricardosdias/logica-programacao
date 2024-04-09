@@ -1,3 +1,12 @@
+'''
+Este programa lê um arquivo XML chamado atendimentos_hospital.xml
+Percorre os elementos do arquivo e imprime as seguintes informações:
+- Nível do elemento (0 pro elemento root, 1 pro primeiro filho, 2 pro segundo filho e assim por diante)
+- Nome do elemento (ou tag)
+- Atributos do elemento
+- Texto do elemento
+'''
+
 import xml.etree.ElementTree as ET
 
 ARQUIVO_XML = 'atendimentos_hospital.xml'
