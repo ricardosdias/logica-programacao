@@ -13,14 +13,16 @@ Para verificar o prazo de entrega clique aqui (www.lojadohacker.com.br/{cpf})
 
 # Lê o arquivo dados_ficticios.csv
 csv_file = 'dados_ficticios.csv'
-arquivo_dados_ficticios = open(csv_file, mode='r', newline='')
+arquivo_dados_ficticios = open(
+    csv_file, mode='r', newline='', encoding='utf-8')
 reader = csv.reader(arquivo_dados_ficticios)
 header = next(reader)
 for row in reader:
     nome, endereco, telefone, aniversario, cpf = row
+    # print(f'nome: {nome}, endereço: {endereco}, telefone: {telefone}, aniversário: {aniversario}, cpf: {cpf}')
+
     sms = TEMPLATE_SMS.format(nome=nome, cpf=cpf)
+
     path = os.path.join(pasta_sms, telefone + '.txt')
-    with open(path, mode='w') as file:
+    with open(path, mode='w', encoding='utf-8') as file:
         file.write(sms)
-
-
