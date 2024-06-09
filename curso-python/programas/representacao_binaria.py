@@ -11,7 +11,7 @@ num = 13
 
 
 # Descomente o código abaixo para verificar a conversão
-print(f'O número {num} em binário é {binario}')
+#print(f'O número {num} em binário é {binario}')
 
 print('\nExercício 2: Conversão de Binário para Decimal')
 binario = '1101'
@@ -22,7 +22,7 @@ binario = '1101'
 
 
 # Descomente o código abaixo para verificar a conversão
-print(f'O número binário {binario} em decimal é {decimal}')
+#print(f'O número binário {binario} em decimal é {decimal}')
 
 print('\nExercício 3: Conversão de Decimal para Binário sem usar as funções embutidas')
 
@@ -46,13 +46,13 @@ def converte_decimal_binario(decimal):
 
         # Se binario ainda estiver vazio, significa que o número era 0
 
-        pass
+        # Comente o código abaixo após completar o código da função
+        break
 
     if binario == '':
         binario = '0'
 
     return binario
-
 
 print(f'O número {13} em binário é {converte_decimal_binario(13)}')
 print(f'O número {26} em binário é {converte_decimal_binario(26)}')
