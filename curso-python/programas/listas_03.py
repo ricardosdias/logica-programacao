@@ -15,7 +15,7 @@ print_cabecalho2_secao()
 
 print('\nExercício 1.1: '
     'Crie uma lista com nomes de pessoas e outra lista com profissões.\n'
-    'Concatene as duas listas e imprima o resultado na tela.\n'
+    'Concatene as duas listas com o operador "+" e imprima o resultado na tela.\n'
     'Também imprima as listas de pessoas e profissões separadamente.')
 print('\nExemplo de Resultado esperado: \n'
       "Lista de Pessoas: ['João', 'Maria', 'Pedro', 'Ana', 'Carlos']\n"
@@ -26,7 +26,7 @@ print('\nResultado obtido:')
 
 print('\nExercício 1.2: '
       'Crie uma lista com números de 1 a 5 e outra lista com números de 6 a 10.\n'
-      'Concatene as duas listas e imprima o resultado na tela.\n'
+      'Concatene as duas listas com o operador "+" e imprima o resultado na tela.\n'
       'Também imprima as listas de números separadamente.')
 print('\nExemplo de Resultado esperado: \n'
         "Lista de Números 1: [1, 2, 3, 4, 5]\n"
