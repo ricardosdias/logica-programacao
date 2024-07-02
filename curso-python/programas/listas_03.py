@@ -26,12 +26,22 @@ print('\nResultado obtido:')
 
 print('\nExercício 1.2: '
       'Crie uma lista com números de 1 a 5 e outra lista com números de 6 a 10.\n'
-      'Concatene as duas listas com o operador "+" e imprima o resultado na tela.\n'
+      'Concatene as duas listas com o operador "+"e imprima o resultado na tela.\n'
       'Também imprima as listas de números separadamente.')
 print('\nExemplo de Resultado esperado: \n'
         "Lista de Números 1: [1, 2, 3, 4, 5]\n"
         "Lista de Números 2: [6, 7, 8, 9, 10]\n"
         "Lista Concatenada: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]")
+print('\nResultado obtido:')
+# ESCREVA SEU CÓDIGO AQUI
+
+print('\nExercício 1.3: '
+    'Crie uma lista com nomes de 3 frutas.\n'
+    'Adicione mais 2 frutas à lista e imprima o resultado na tela.\n'
+    'Use o método list.extend().')
+print('\nExemplo de Resultado esperado: \n'
+        "Lista de Frutas: ['Maçã', 'Banana', 'Cereja']\n"
+        "Lista de Frutas Extendida: ['Maçã', 'Banana', 'Cereja', 'Morango', 'Uva']")
 print('\nResultado obtido:')
 # ESCREVA SEU CÓDIGO AQUI
 
