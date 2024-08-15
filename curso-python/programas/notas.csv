@@ -1,0 +1,501 @@
+disciplina,aluno,nota1,nota2,nota3,nota4
+Matemática,Ana,3.6,8.0,7.6,3.1
+Matemática,Fred,5.6,7.2,8.7,8.8
+Matemática,Ricardo,6.9,4.5,6.3,6.8
+Matemática,Caramelo,6.0,7.4,3.4,8.6
+Matemática,Lucas,6.1,3.4,3.6,3.9
+Matemática,Adalto,8.5,3.6,4.7,8.9
+Matemática,Miguel,3.8,5.3,7.1,6.7
+Matemática,Natasha,5.7,7.9,7.7,6.8
+Matemática,Maicon,2.9,3.1,6.8,9.2
+Matemática,Claudiney,3.0,7.0,5.7,6.8
+Matemática,Deise,6.8,2.3,7.0,4.0
+Matemática,Arthur Gabriel,2.6,9.1,4.9,8.9
+Matemática,Raul,6.7,6.5,6.9,3.9
+Matemática,Larissa,7.3,3.0,7.5,5.8
+Matemática,Yuri,3.3,10.0,5.3,3.9
+Matemática,Stella,6.8,8.7,6.1,9.3
+Matemática,Bernardo,5.4,7.3,7.2,6.1
+Matemática,Pietra,3.6,5.7,7.7,8.9
+Matemática,Anthony Gabriel,10.0,6.6,3.5,5.9
+Matemática,Mathias,7.4,4.0,6.1,7.5
+Matemática,Breno,6.5,5.3,7.1,3.6
+Matemática,Ayla,5.9,5.6,3.7,7.2
+Matemática,Gustavo Henrique,9.9,7.9,7.9,6.6
+Matemática,Maria Eduarda,9.3,8.6,6.6,2.1
+Matemática,Maitê,3.7,7.9,6.6,9.4
+Matemática,Ana Carolina,5.0,6.8,2.8,10.0
+Matemática,João Vitor,7.0,3.2,2.7,6.1
+Matemática,Liz,7.7,8.1,6.0,7.0
+Matemática,Alice,2.9,2.3,4.5,2.6
+Matemática,Natália,4.1,6.1,4.4,3.0
+Matemática,Bruno,3.7,5.7,4.4,2.2
+Matemática,Bryan,4.8,6.7,8.4,8.6
+Matemática,Marcos Vinicius,3.1,3.7,2.2,6.3
+Matemática,Daniel,5.5,6.4,7.6,6.6
+Matemática,Rhavi,2.9,7.4,7.2,2.5
+Matemática,Francisco,7.8,7.2,8.9,3.0
+Matemática,Gael Henrique,3.7,7.9,8.7,2.7
+Matemática,Melissa,7.3,7.6,6.1,2.4
+Matemática,Ana Sophia,8.7,7.1,4.1,6.8
+Matemática,Renan,8.6,2.3,8.0,6.2
+Matemática,Luan,6.6,4.8,2.9,7.0
+Matemática,Yasmin,3.1,9.7,3.2,7.9
+Matemática,Vicente,3.1,5.3,4.0,6.2
+Matemática,Maysa,2.5,5.2,8.8,7.7
+Matemática,Pietro,7.3,8.8,8.3,8.9
+Matemática,Maria Helena,2.5,6.8,6.8,4.8
+Matemática,Emilly,5.0,4.9,7.7,3.5
+Matemática,Enzo,4.7,7.6,8.4,7.5
+Matemática,Nicolas,2.2,3.0,7.7,9.0
+Matemática,Yan,6.0,7.8,4.6,6.1
+Português,Ana,6.9,7.0,5.4,9.5
+Português,Fred,9.8,9.8,4.4,6.1
+Português,Ricardo,3.4,7.1,4.4,4.3
+Português,Caramelo,6.3,3.5,4.8,9.6
+Português,Lucas,6.2,3.2,6.2,7.9
+Português,Adalto,2.5,3.2,3.5,6.9
+Português,Miguel,6.7,7.0,3.9,3.1
+Português,Natasha,6.5,5.5,7.1,6.4
+Português,Maicon,2.8,7.9,9.2,5.8
+Português,Claudiney,7.6,3.1,9.1,7.3
+Português,Deise,3.8,7.0,3.2,4.8
+Português,Arthur Gabriel,8.1,6.1,3.1,6.8
+Português,Raul,7.1,8.0,6.8,6.1
+Português,Larissa,7.4,7.4,6.4,6.4
+Português,Yuri,7.5,8.8,3.6,8.2
+Português,Stella,5.6,2.7,8.7,3.8
+Português,Bernardo,9.7,4.9,2.7,5.9
+Português,Pietra,3.7,6.3,9.9,8.3
+Português,Anthony Gabriel,4.3,4.6,9.9,8.6
+Português,Mathias,6.0,6.0,3.6,9.6
+Português,Breno,7.8,4.6,6.5,3.1
+Português,Ayla,5.0,2.0,7.9,4.5
+Português,Gustavo Henrique,4.3,5.1,5.6,6.3
+Português,Maria Eduarda,4.3,4.1,8.0,6.8
+Português,Maitê,7.4,6.6,7.1,7.9
+Português,Ana Carolina,8.5,6.5,5.7,7.2
+Português,João Vitor,8.2,5.9,7.2,5.9
+Português,Liz,7.3,7.2,7.6,4.7
+Português,Alice,8.6,7.2,7.7,9.5
+Português,Natália,8.7,3.2,6.7,3.5
+Português,Bruno,6.2,7.3,4.3,2.4
+Português,Bryan,8.0,6.1,4.3,7.6
+Português,Marcos Vinicius,9.4,7.8,5.4,9.1
+Português,Daniel,4.9,3.3,9.1,7.7
+Português,Rhavi,7.7,6.8,9.5,5.0
+Português,Francisco,7.6,2.8,6.4,7.6
+Português,Gael Henrique,5.1,6.8,5.2,3.6
+Português,Melissa,7.2,9.1,8.9,2.2
+Português,Ana Sophia,7.0,8.4,7.9,3.8
+Português,Renan,7.0,6.4,2.0,3.4
+Português,Luan,7.8,6.4,4.4,6.7
+Português,Yasmin,4.8,3.3,6.3,7.3
+Português,Vicente,9.1,4.4,6.3,7.4
+Português,Maysa,7.6,6.3,5.4,7.1
+Português,Pietro,8.6,8.8,3.7,9.3
+Português,Maria Helena,7.9,7.5,3.3,8.2
+Português,Emilly,4.8,7.1,8.4,6.5
+Português,Enzo,7.6,7.5,7.7,7.4
+Português,Nicolas,3.6,5.2,7.2,3.6
+Português,Yan,9.2,6.2,9.0,6.4
+História,Ana,5.1,7.7,6.3,7.0
+História,Fred,3.0,7.6,5.2,7.2
+História,Ricardo,9.2,2.7,2.8,9.8
+História,Caramelo,3.4,5.4,8.1,2.1
+História,Lucas,3.1,2.7,6.6,4.1
+História,Adalto,3.8,3.7,4.0,3.8
+História,Miguel,3.0,6.9,6.0,6.9
+História,Natasha,7.0,5.0,8.5,3.2
+História,Maicon,4.0,6.0,7.1,6.8
+História,Claudiney,9.8,7.3,5.4,9.2
+História,Deise,2.7,7.9,4.1,8.1
+História,Arthur Gabriel,6.7,6.2,7.5,2.7
+História,Raul,3.5,9.4,5.4,6.5
+História,Larissa,6.3,3.4,5.0,6.4
+História,Yuri,7.8,5.6,6.8,8.8
+História,Stella,4.8,2.0,5.7,4.1
+História,Bernardo,8.7,7.4,6.2,4.1
+História,Pietra,6.5,5.1,5.3,6.4
+História,Anthony Gabriel,5.7,2.3,2.2,6.2
+História,Mathias,3.2,5.5,8.1,8.3
+História,Breno,2.3,6.4,3.5,6.2
+História,Ayla,6.1,4.6,7.3,3.3
+História,Gustavo Henrique,3.2,5.7,7.1,6.0
+História,Maria Eduarda,6.1,8.7,9.3,9.4
+História,Maitê,7.0,9.4,7.8,3.6
+História,Ana Carolina,5.3,8.5,3.7,7.7
+História,João Vitor,5.6,3.6,8.3,4.8
+História,Liz,3.3,9.2,2.3,6.5
+História,Alice,9.3,8.9,5.4,7.1
+História,Natália,9.2,4.0,6.5,9.3
+História,Bruno,5.5,7.5,7.9,6.2
+História,Bryan,2.0,6.7,3.0,6.4
+História,Marcos Vinicius,6.1,7.5,9.2,9.3
+História,Daniel,7.4,5.0,3.9,3.9
+História,Rhavi,5.3,9.6,8.2,5.4
+História,Francisco,9.5,7.4,6.7,8.1
+História,Gael Henrique,7.0,7.6,3.3,6.2
+História,Melissa,6.1,8.1,2.1,2.8
+História,Ana Sophia,3.5,7.2,7.1,4.7
+História,Renan,2.8,7.8,9.9,8.8
+História,Luan,7.3,2.5,4.9,8.7
+História,Yasmin,8.2,8.9,4.4,9.1
+História,Vicente,2.2,7.3,3.8,6.6
+História,Maysa,4.4,9.6,4.5,9.0
+História,Pietro,4.3,9.4,8.7,6.8
+História,Maria Helena,8.8,8.7,6.3,4.9
+História,Emilly,6.7,7.0,5.7,5.7
+História,Enzo,4.5,2.5,7.3,7.4
+História,Nicolas,6.4,6.5,3.5,7.7
+História,Yan,6.2,6.7,9.8,9.6
+Geografia,Ana,9.0,4.3,6.4,4.8
+Geografia,Fred,5.4,7.1,2.0,9.7
+Geografia,Ricardo,6.3,7.8,8.1,7.9
+Geografia,Caramelo,6.9,7.6,2.1,3.4
+Geografia,Lucas,6.9,7.2,5.0,6.9
+Geografia,Adalto,7.6,3.3,6.7,6.2
+Geografia,Miguel,6.1,6.9,8.0,6.7
+Geografia,Natasha,2.2,4.0,4.2,9.9
+Geografia,Maicon,6.9,4.6,6.2,3.5
+Geografia,Claudiney,5.8,3.9,7.9,7.7
+Geografia,Deise,6.8,4.2,9.6,5.8
+Geografia,Arthur Gabriel,8.2,5.6,4.9,7.9
+Geografia,Raul,7.4,6.1,5.2,7.9
+Geografia,Larissa,8.4,7.0,9.7,6.8
+Geografia,Yuri,2.9,8.5,2.3,3.6
+Geografia,Stella,6.0,2.9,5.5,7.8
+Geografia,Bernardo,6.8,2.0,2.5,6.4
+Geografia,Pietra,7.0,5.3,9.8,7.5
+Geografia,Anthony Gabriel,7.0,5.4,4.2,3.4
+Geografia,Mathias,6.0,7.7,7.8,3.0
+Geografia,Breno,9.9,6.3,3.8,6.5
+Geografia,Ayla,6.1,6.5,5.8,6.6
+Geografia,Gustavo Henrique,6.9,8.5,8.3,3.1
+Geografia,Maria Eduarda,4.7,4.0,2.2,7.0
+Geografia,Maitê,2.7,6.7,8.6,6.8
+Geografia,Ana Carolina,8.7,8.2,7.2,5.9
+Geografia,João Vitor,9.0,6.1,7.2,6.4
+Geografia,Liz,9.6,7.0,5.1,5.7
+Geografia,Alice,7.9,5.3,8.0,2.8
+Geografia,Natália,2.5,7.7,2.2,8.7
+Geografia,Bruno,9.4,4.7,4.4,7.9
+Geografia,Bryan,3.7,8.1,2.5,8.9
+Geografia,Marcos Vinicius,9.3,4.9,7.4,4.7
+Geografia,Daniel,2.3,9.1,4.8,7.4
+Geografia,Rhavi,8.7,7.1,6.1,3.1
+Geografia,Francisco,6.0,2.4,8.0,8.7
+Geografia,Gael Henrique,5.6,4.9,8.8,5.1
+Geografia,Melissa,6.0,2.4,6.5,3.5
+Geografia,Ana Sophia,7.1,5.0,7.3,6.0
+Geografia,Renan,4.8,7.3,6.9,7.0
+Geografia,Luan,8.2,4.6,9.3,2.7
+Geografia,Yasmin,7.8,8.1,8.6,6.4
+Geografia,Vicente,7.8,2.9,8.3,2.7
+Geografia,Maysa,5.9,5.3,3.1,7.7
+Geografia,Pietro,5.0,6.3,8.9,6.4
+Geografia,Maria Helena,5.6,9.2,5.4,5.1
+Geografia,Emilly,9.2,9.3,6.9,4.1
+Geografia,Enzo,9.6,5.8,5.1,5.3
+Geografia,Nicolas,5.3,7.6,6.2,9.8
+Geografia,Yan,5.4,6.6,3.3,6.8
+Ciências,Ana,6.2,7.2,9.9,6.6
+Ciências,Fred,5.7,4.0,8.8,8.8
+Ciências,Ricardo,3.9,7.8,4.3,6.0
+Ciências,Caramelo,8.5,5.8,8.5,6.6
+Ciências,Lucas,5.7,6.2,10.0,7.0
+Ciências,Adalto,8.2,5.4,6.4,6.6
+Ciências,Miguel,9.5,7.7,7.1,9.3
+Ciências,Natasha,9.6,3.9,5.1,9.7
+Ciências,Maicon,4.0,7.2,7.4,8.8
+Ciências,Claudiney,7.4,5.6,5.8,2.8
+Ciências,Deise,2.9,2.7,4.9,6.0
+Ciências,Arthur Gabriel,8.0,5.8,2.0,4.6
+Ciências,Raul,7.8,8.1,2.6,7.5
+Ciências,Larissa,2.7,3.9,9.5,8.4
+Ciências,Yuri,6.6,7.0,5.0,2.7
+Ciências,Stella,8.6,3.0,4.1,6.5
+Ciências,Bernardo,5.3,4.5,8.7,3.1
+Ciências,Pietra,9.6,8.6,6.7,3.6
+Ciências,Anthony Gabriel,8.1,7.8,6.3,6.5
+Ciências,Mathias,6.6,9.0,5.4,5.2
+Ciências,Breno,6.3,5.9,7.7,7.9
+Ciências,Ayla,2.3,3.8,5.2,7.9
+Ciências,Gustavo Henrique,5.1,5.8,2.2,8.9
+Ciências,Maria Eduarda,3.4,7.7,6.2,8.7
+Ciências,Maitê,8.6,2.6,2.8,6.6
+Ciências,Ana Carolina,7.6,8.8,4.8,8.8
+Ciências,João Vitor,6.5,6.0,7.0,3.8
+Ciências,Liz,2.2,3.2,8.8,5.3
+Ciências,Alice,4.1,8.7,9.0,6.4
+Ciências,Natália,5.8,6.0,2.9,7.3
+Ciências,Bruno,7.7,7.1,3.1,6.9
+Ciências,Bryan,7.5,2.6,6.7,5.9
+Ciências,Marcos Vinicius,5.0,2.7,7.3,2.8
+Ciências,Daniel,7.0,10.0,6.0,9.7
+Ciências,Rhavi,2.4,6.8,5.8,3.8
+Ciências,Francisco,5.7,7.3,6.3,4.5
+Ciências,Gael Henrique,8.6,9.9,7.4,3.4
+Ciências,Melissa,7.3,8.3,7.2,9.4
+Ciências,Ana Sophia,4.8,9.3,6.6,7.1
+Ciências,Renan,3.4,4.4,5.6,4.0
+Ciências,Luan,4.8,7.5,3.6,2.8
+Ciências,Yasmin,3.9,7.6,8.9,3.8
+Ciências,Vicente,5.8,4.9,2.9,9.8
+Ciências,Maysa,3.9,3.3,7.7,9.4
+Ciências,Pietro,2.0,2.1,3.8,7.8
+Ciências,Maria Helena,3.3,9.4,6.7,9.2
+Ciências,Emilly,3.5,9.6,8.2,3.5
+Ciências,Enzo,9.8,6.2,7.4,6.8
+Ciências,Nicolas,7.6,3.9,9.5,8.7
+Ciências,Yan,7.1,7.9,7.6,7.7
+Inglês,Ana,2.5,4.5,7.5,6.2
+Inglês,Fred,6.4,6.4,3.8,6.2
+Inglês,Ricardo,8.2,3.8,9.1,7.3
+Inglês,Caramelo,9.4,4.7,8.2,7.3
+Inglês,Lucas,7.6,6.4,4.7,9.9
+Inglês,Adalto,6.5,3.2,5.0,7.7
+Inglês,Miguel,4.7,9.3,6.2,7.4
+Inglês,Natasha,7.0,2.0,6.2,8.1
+Inglês,Maicon,8.7,5.1,9.8,7.9
+Inglês,Claudiney,10.0,9.4,7.2,8.1
+Inglês,Deise,7.5,8.2,8.8,4.9
+Inglês,Arthur Gabriel,6.1,7.2,6.6,8.7
+Inglês,Raul,5.9,9.8,4.1,8.6
+Inglês,Larissa,8.4,4.3,6.9,5.8
+Inglês,Yuri,7.8,9.2,8.9,2.5
+Inglês,Stella,7.5,6.2,2.3,2.0
+Inglês,Bernardo,6.1,8.7,3.9,9.8
+Inglês,Pietra,6.9,5.0,5.8,6.8
+Inglês,Anthony Gabriel,6.5,2.6,7.0,3.9
+Inglês,Mathias,7.2,4.3,9.3,8.5
+Inglês,Breno,7.8,7.4,5.5,8.6
+Inglês,Ayla,3.4,7.0,6.2,7.1
+Inglês,Gustavo Henrique,2.2,3.1,6.8,2.1
+Inglês,Maria Eduarda,7.4,5.0,9.4,7.5
+Inglês,Maitê,6.2,8.2,5.5,6.3
+Inglês,Ana Carolina,2.0,8.4,3.0,3.9
+Inglês,João Vitor,4.0,6.5,7.2,3.6
+Inglês,Liz,4.5,7.5,6.7,3.9
+Inglês,Alice,6.6,7.4,3.5,7.4
+Inglês,Natália,5.8,7.1,4.6,4.1
+Inglês,Bruno,7.8,7.3,3.9,7.8
+Inglês,Bryan,4.3,9.4,9.2,2.4
+Inglês,Marcos Vinicius,3.2,2.5,4.9,4.0
+Inglês,Daniel,3.4,7.2,5.5,9.0
+Inglês,Rhavi,8.2,6.8,2.9,8.2
+Inglês,Francisco,6.0,9.9,6.2,5.8
+Inglês,Gael Henrique,8.5,4.2,6.0,7.3
+Inglês,Melissa,6.6,2.6,4.0,6.5
+Inglês,Ana Sophia,9.9,6.2,7.4,2.5
+Inglês,Renan,7.9,7.6,7.7,6.1
+Inglês,Luan,7.2,3.5,5.8,8.1
+Inglês,Yasmin,2.4,3.0,2.8,4.3
+Inglês,Vicente,5.8,3.4,4.7,3.8
+Inglês,Maysa,7.2,2.1,4.1,9.2
+Inglês,Pietro,6.4,2.5,6.7,7.9
+Inglês,Maria Helena,7.7,5.4,4.2,7.1
+Inglês,Emilly,8.5,3.8,3.2,5.7
+Inglês,Enzo,3.6,2.0,8.4,7.6
+Inglês,Nicolas,6.1,7.9,5.2,7.3
+Inglês,Yan,7.5,7.2,9.7,7.1
+Educação Física,Ana,9.6,9.6,7.9,9.2
+Educação Física,Fred,4.1,6.7,8.5,7.7
+Educação Física,Ricardo,4.3,7.1,6.7,7.6
+Educação Física,Caramelo,3.0,3.6,6.5,9.8
+Educação Física,Lucas,9.5,9.6,4.7,9.4
+Educação Física,Adalto,2.8,7.1,6.4,7.4
+Educação Física,Miguel,8.0,3.0,7.2,8.0
+Educação Física,Natasha,9.0,8.7,4.5,2.5
+Educação Física,Maicon,3.8,3.9,6.3,2.7
+Educação Física,Claudiney,4.5,7.1,3.5,7.8
+Educação Física,Deise,6.7,7.0,2.1,7.2
+Educação Física,Arthur Gabriel,4.6,8.6,4.6,7.6
+Educação Física,Raul,6.5,6.7,3.9,4.7
+Educação Física,Larissa,6.7,8.6,7.9,7.3
+Educação Física,Yuri,6.6,2.5,6.2,9.0
+Educação Física,Stella,7.0,6.4,9.0,6.6
+Educação Física,Bernardo,6.1,2.4,4.3,6.7
+Educação Física,Pietra,3.2,4.2,4.5,6.4
+Educação Física,Anthony Gabriel,5.0,8.7,3.3,3.1
+Educação Física,Mathias,3.2,6.6,8.5,5.5
+Educação Física,Breno,6.9,6.9,8.6,3.4
+Educação Física,Ayla,3.7,8.9,5.8,6.8
+Educação Física,Gustavo Henrique,2.8,6.6,8.2,7.6
+Educação Física,Maria Eduarda,9.3,3.8,8.7,8.2
+Educação Física,Maitê,2.3,7.8,7.2,5.9
+Educação Física,Ana Carolina,7.7,7.0,4.2,7.5
+Educação Física,João Vitor,7.2,7.9,4.4,4.5
+Educação Física,Liz,4.1,4.7,6.0,6.6
+Educação Física,Alice,8.6,7.9,6.4,6.0
+Educação Física,Natália,4.4,5.6,7.2,4.1
+Educação Física,Bruno,2.9,6.7,7.9,4.8
+Educação Física,Bryan,4.5,9.6,3.9,7.5
+Educação Física,Marcos Vinicius,6.4,3.3,3.9,6.4
+Educação Física,Daniel,9.1,6.5,5.7,2.1
+Educação Física,Rhavi,8.4,2.7,6.6,6.7
+Educação Física,Francisco,3.2,7.7,2.4,4.6
+Educação Física,Gael Henrique,2.4,9.6,5.1,5.0
+Educação Física,Melissa,7.9,2.6,3.5,8.7
+Educação Física,Ana Sophia,7.8,5.3,3.1,7.1
+Educação Física,Renan,3.8,9.9,4.3,8.2
+Educação Física,Luan,3.6,7.9,2.1,5.4
+Educação Física,Yasmin,8.0,5.1,4.4,6.0
+Educação Física,Vicente,7.8,5.4,3.3,7.4
+Educação Física,Maysa,9.2,6.5,3.0,6.9
+Educação Física,Pietro,7.9,5.7,5.2,6.1
+Educação Física,Maria Helena,7.6,3.8,7.7,7.5
+Educação Física,Emilly,4.9,4.4,2.6,8.3
+Educação Física,Enzo,6.3,2.3,6.5,5.2
+Educação Física,Nicolas,7.5,7.0,5.1,6.8
+Educação Física,Yan,8.1,7.2,6.0,9.5
+Artes,Ana,7.5,2.5,9.1,7.7
+Artes,Fred,7.4,3.4,7.1,4.6
+Artes,Ricardo,5.0,4.1,5.5,5.9
+Artes,Caramelo,8.5,7.5,7.7,6.2
+Artes,Lucas,8.0,4.7,5.5,7.2
+Artes,Adalto,7.0,2.9,4.6,3.2
+Artes,Miguel,8.1,6.1,7.1,6.5
+Artes,Natasha,4.0,6.8,7.9,8.5
+Artes,Maicon,5.4,9.2,2.2,4.7
+Artes,Claudiney,9.9,5.6,4.2,4.2
+Artes,Deise,6.3,6.2,6.4,8.1
+Artes,Arthur Gabriel,6.6,6.7,6.7,8.2
+Artes,Raul,4.3,3.9,6.4,5.2
+Artes,Larissa,9.7,3.6,6.9,5.9
+Artes,Yuri,5.4,6.6,9.5,7.7
+Artes,Stella,6.0,4.3,4.3,2.3
+Artes,Bernardo,6.2,3.3,7.4,4.0
+Artes,Pietra,2.4,8.2,6.3,5.0
+Artes,Anthony Gabriel,9.2,2.7,3.1,4.9
+Artes,Mathias,4.7,7.6,2.8,2.4
+Artes,Breno,9.9,7.9,3.7,3.3
+Artes,Ayla,6.2,6.9,8.4,6.3
+Artes,Gustavo Henrique,2.3,8.8,4.7,8.2
+Artes,Maria Eduarda,2.5,4.3,5.4,7.8
+Artes,Maitê,4.9,7.0,3.6,6.7
+Artes,Ana Carolina,3.4,5.0,2.8,6.0
+Artes,João Vitor,7.8,6.0,6.7,6.6
+Artes,Liz,4.0,6.6,5.4,6.7
+Artes,Alice,4.1,5.6,9.6,9.8
+Artes,Natália,5.2,9.7,8.2,3.4
+Artes,Bruno,5.7,3.1,2.5,6.1
+Artes,Bryan,6.8,6.3,6.1,3.3
+Artes,Marcos Vinicius,9.3,3.8,8.3,8.6
+Artes,Daniel,8.8,5.5,6.5,3.9
+Artes,Rhavi,9.4,7.2,8.1,2.8
+Artes,Francisco,7.6,8.7,3.7,4.7
+Artes,Gael Henrique,8.2,6.7,6.0,3.7
+Artes,Melissa,9.2,3.3,8.3,8.1
+Artes,Ana Sophia,6.1,9.2,5.7,6.0
+Artes,Renan,6.1,7.1,4.2,5.8
+Artes,Luan,2.9,6.2,6.0,8.3
+Artes,Yasmin,7.3,9.5,3.5,4.8
+Artes,Vicente,7.8,8.7,7.3,5.6
+Artes,Maysa,5.4,7.1,2.8,8.0
+Artes,Pietro,6.9,5.1,2.0,9.7
+Artes,Maria Helena,6.5,6.6,6.8,6.0
+Artes,Emilly,2.7,5.6,7.5,7.9
+Artes,Enzo,2.0,7.1,4.6,5.4
+Artes,Nicolas,8.6,6.5,7.9,7.2
+Artes,Yan,3.0,4.3,2.6,7.7
+Filosofia,Ana,5.8,6.1,7.8,10.0
+Filosofia,Fred,6.9,3.0,7.0,4.3
+Filosofia,Ricardo,7.1,9.4,2.3,6.1
+Filosofia,Caramelo,9.2,8.5,7.3,7.3
+Filosofia,Lucas,7.2,4.8,7.2,8.4
+Filosofia,Adalto,8.3,8.9,7.9,2.1
+Filosofia,Miguel,9.4,7.3,3.1,8.9
+Filosofia,Natasha,3.5,6.4,2.0,7.0
+Filosofia,Maicon,8.8,6.6,6.4,7.3
+Filosofia,Claudiney,3.0,5.2,5.5,3.4
+Filosofia,Deise,7.2,5.1,9.1,9.3
+Filosofia,Arthur Gabriel,9.8,4.1,8.6,2.2
+Filosofia,Raul,7.4,3.1,8.7,8.6
+Filosofia,Larissa,7.3,8.7,7.9,6.9
+Filosofia,Yuri,5.0,3.0,9.6,7.6
+Filosofia,Stella,7.9,6.3,4.2,8.7
+Filosofia,Bernardo,7.8,3.0,3.6,4.4
+Filosofia,Pietra,7.5,9.8,3.9,6.9
+Filosofia,Anthony Gabriel,4.1,9.4,2.5,8.6
+Filosofia,Mathias,3.8,2.9,6.0,4.9
+Filosofia,Breno,2.3,6.0,2.0,7.9
+Filosofia,Ayla,9.4,6.8,9.0,7.8
+Filosofia,Gustavo Henrique,5.9,8.0,9.9,5.2
+Filosofia,Maria Eduarda,4.5,7.4,3.3,2.6
+Filosofia,Maitê,7.4,6.6,4.0,8.4
+Filosofia,Ana Carolina,2.7,7.9,7.6,9.1
+Filosofia,João Vitor,6.4,2.0,3.0,9.1
+Filosofia,Liz,3.8,8.3,6.4,8.1
+Filosofia,Alice,3.7,9.0,5.9,7.3
+Filosofia,Natália,6.7,3.5,5.9,6.4
+Filosofia,Bruno,3.3,3.7,6.3,9.1
+Filosofia,Bryan,6.1,4.0,7.8,9.8
+Filosofia,Marcos Vinicius,7.6,9.4,6.0,2.2
+Filosofia,Daniel,6.6,5.1,8.9,3.5
+Filosofia,Rhavi,7.6,4.6,3.6,7.1
+Filosofia,Francisco,6.4,7.2,9.0,8.2
+Filosofia,Gael Henrique,7.3,3.9,2.8,6.8
+Filosofia,Melissa,2.3,5.1,7.5,8.4
+Filosofia,Ana Sophia,9.2,6.0,9.9,6.5
+Filosofia,Renan,4.9,6.6,9.5,5.2
+Filosofia,Luan,2.6,5.1,9.5,3.9
+Filosofia,Yasmin,3.2,7.1,5.0,6.0
+Filosofia,Vicente,7.8,3.6,9.1,7.7
+Filosofia,Maysa,7.2,4.2,7.5,9.5
+Filosofia,Pietro,6.7,9.2,6.7,7.9
+Filosofia,Maria Helena,3.6,3.0,3.9,9.3
+Filosofia,Emilly,7.1,2.9,3.9,6.2
+Filosofia,Enzo,5.8,9.9,2.1,6.7
+Filosofia,Nicolas,6.2,3.7,6.4,4.1
+Filosofia,Yan,5.6,6.4,7.0,7.3
+Sociologia,Ana,6.7,7.3,3.7,2.5
+Sociologia,Fred,7.6,7.5,7.5,3.1
+Sociologia,Ricardo,2.7,7.9,8.5,8.4
+Sociologia,Caramelo,3.8,2.2,7.9,7.4
+Sociologia,Lucas,6.5,5.4,4.6,3.7
+Sociologia,Adalto,6.0,4.7,4.7,6.2
+Sociologia,Miguel,5.7,9.6,4.7,4.8
+Sociologia,Natasha,9.5,8.6,6.5,8.2
+Sociologia,Maicon,8.8,2.1,6.5,6.5
+Sociologia,Claudiney,9.1,6.4,6.6,7.9
+Sociologia,Deise,7.1,3.6,3.6,6.7
+Sociologia,Arthur Gabriel,9.3,5.5,6.7,6.8
+Sociologia,Raul,4.3,5.7,2.4,7.1
+Sociologia,Larissa,6.3,4.8,7.9,7.1
+Sociologia,Yuri,8.6,8.0,2.7,6.6
+Sociologia,Stella,8.2,6.2,8.7,5.2
+Sociologia,Bernardo,6.1,3.5,7.7,8.8
+Sociologia,Pietra,9.5,4.6,7.4,2.2
+Sociologia,Anthony Gabriel,6.3,2.2,3.0,4.0
+Sociologia,Mathias,2.8,6.3,7.8,4.3
+Sociologia,Breno,5.8,7.2,5.3,7.1
+Sociologia,Ayla,2.3,8.4,6.5,7.5
+Sociologia,Gustavo Henrique,7.7,9.6,4.3,5.2
+Sociologia,Maria Eduarda,7.7,5.0,5.5,6.7
+Sociologia,Maitê,6.3,7.0,8.3,7.2
+Sociologia,Ana Carolina,8.1,6.0,6.5,4.3
+Sociologia,João Vitor,9.0,5.6,5.5,5.5
+Sociologia,Liz,6.6,6.1,5.2,3.6
+Sociologia,Alice,4.5,3.7,7.2,6.2
+Sociologia,Natália,5.9,3.1,8.6,8.7
+Sociologia,Bruno,9.4,7.5,8.3,6.2
+Sociologia,Bryan,7.1,7.4,8.7,8.5
+Sociologia,Marcos Vinicius,6.5,6.1,4.3,4.5
+Sociologia,Daniel,2.0,6.9,7.0,4.9
+Sociologia,Rhavi,3.6,7.6,6.5,2.4
+Sociologia,Francisco,3.6,4.0,8.2,8.4
+Sociologia,Gael Henrique,5.2,3.5,6.1,4.3
+Sociologia,Melissa,7.2,6.9,2.3,6.7
+Sociologia,Ana Sophia,6.8,6.8,5.4,6.7
+Sociologia,Renan,7.4,6.0,5.4,7.9
+Sociologia,Luan,5.7,4.6,6.1,8.8
+Sociologia,Yasmin,9.7,3.5,6.4,6.7
+Sociologia,Vicente,8.5,4.5,7.1,5.7
+Sociologia,Maysa,6.7,9.2,2.3,5.2
+Sociologia,Pietro,9.3,5.3,4.6,4.1
+Sociologia,Maria Helena,6.7,8.9,9.5,6.2
+Sociologia,Emilly,6.6,7.9,6.5,9.2
+Sociologia,Enzo,5.9,8.8,5.8,7.3
+Sociologia,Nicolas,5.9,6.3,7.1,6.3
+Sociologia,Yan,3.1,2.3,4.8,3.5
