@@ -42,12 +42,14 @@ print('\nExercício 05:\n'
 print('Resultado obtido:')
 # ESCREVA SEU CÓDIGO AQUI''
 
+
 print('\nExercício 06:\n'
       'No dicionário "meu_dicionario" definido acima, acesse o valor associado à chave "idade"\n'
       'Use o método .get() para acessar o valor e imprima o resultado\n'
       'Saída esperada:\n9')
 print('Resultado obtido:')
 # ESCREVA SEU CÓDIGO AQUI''
+
 
 print('\nExercício 07:\n'
       'Imprima todas as chaves do dicionário "meu_dicionario" definido acima\n'
@@ -173,6 +175,35 @@ print('Resultado obtido:')
 # ESCREVA SEU CÓDIGO AQUI''
 
 print('\nExercício 20:\n'
+      'Crie um dicionário com as seguintes chaves: nome, idade\n'
+      'Use o método update para adicionar as chaves cidade e estado ao dicionário\n'
+      'Imprima o dicionário criado\n'
+      'Saída esperada:\n'
+      '{\'nome\': \'Frodo\', \'idade\': 35, \'cidade\': \'Rio de Janeiro\', \'estado\': \'RJ\'}')
+print('Resultado obtido:')
+# ESCREVA SEU CÓDIGO AQUI''
+
+print('\nExercício 21:\n'
+      'Crie um dicionário chamado aluno com as seguintes chaves: nome_aluno, idade\n'
+      'Crie um segundo dicionário chamado curso com as seguintes chaves: nome_curso, carga_horaria\n'
+      'Use o método update para adicionar as chaves do dicionário curso ao dicionário aluno\n'
+      'Imprima o dicionário aluno\n'
+      'Saída esperada:\n'
+      '{\'nome_aluno\': \'Frodo\', \'idade\': 35, \'nome_curso\': \'Python\', \'carga_horaria\': 40}')
+print('Resultado obtido:')
+# ESCREVA SEU CÓDIGO AQUI''
+
+print('\nExercício 22:\n'
+      'Crie um dicionário com as seguintes chaves: nome, idade, cidade\n'
+      'Use o método update para atualizar a chave cidade do dicionário criado\n'
+      'Imprima o dicionário criado\n'
+      'Saída esperada:\n'
+      '{\'nome\': \'Frodo\', \'idade\': 35, \'cidade\': \'Rio de Janeiro\'}')
+print('Resultado obtido:')
+# ESCREVA SEU CÓDIGO AQUI''
+
+
+print('\nExercício 23:\n'
       'Remova o aluno1 do dicionário alunos\n'
       'Use o método .pop() e imprima o dicionário alunos\n'
       'Saída esperada:\n'
@@ -180,7 +211,7 @@ print('\nExercício 20:\n'
 print('Resultado obtido:')
 # ESCREVA SEU CÓDIGO AQUI''
 
-print('\nExercício 21:\n'
+print('\nExercício 24:\n'
       'Remova a chave idade do aluno2\n'
       'Use o método del e imprima o dicionário alunos\n'
       'Imprima o dicionário alunos\n'
@@ -189,7 +220,7 @@ print('\nExercício 21:\n'
 print('Resultado obtido:')
 # ESCREVA SEU CÓDIGO AQUI''
 
-print('\nExercício 22:\n'
+print('\nExercício 25:\n'
       'Crie um dicionário que represente um produto de uma loja (nome, preço, quantidade, categoria)\n'
       'Imprima o dicionário criado\n'
       'Saída esperada:\n'
@@ -203,7 +234,7 @@ notas = {
     'prova3': 9.0,
     'prova4': 6.0
 }
-print('\nExercício 23:\n'
+print('\nExercício 26:\n'
       'Calcule a média das notas do dicionário notas definido acima\n'
       'Imprima o resultado\n'
       'Saída esperada:\n7.75')
@@ -229,7 +260,7 @@ cidades = {
     'Natal': {'população': 0.9, 'área': 200, 'estado': 'RN'},
 }
 
-print('\nExercício 24:\n'
+print('\nExercício 27:\n'
       'Imprima a cidade com a maior população do dicionário cidades definido acima\n'
       'Saída esperada:\nSão Paulo')
 print('Resultado obtido:')
